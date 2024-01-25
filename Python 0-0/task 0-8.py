@@ -1,0 +1,7 @@
+name = input("Ваше имя:")
+second_name = input("Ваша фамилия:")
+favorite_anima1 = input("Ваше любимое животное:")
+zodiac = input("Ваш знак зодиака:")
+print("Индивидуальный гороскоп для пользователя:", name, second_name)
+print("Кем вы были в прошлой жизни:", favorite_anima1)
+print("Ваш знак зодиака -", zodiac, "поэтому вы - тонко чувствующая натура")
