@@ -5,6 +5,6 @@ count3 = input()
 if count1 == "раз" and count2 == "два" and count3 =="три":
     print("Гори!")
 elif count1 == "1" and count2 == "2" and count3 == "3":
-    print("Гори")
+    print("Гори!")
 else:
-    print("Не гори")
+    print("Не гори!")
